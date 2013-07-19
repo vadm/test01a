@@ -1,0 +1,10 @@
+.git0
+.svn
+/.project*
+/*/bin
+/*/gen
+.project
+.classpath
+.settings
+local.properties
+
